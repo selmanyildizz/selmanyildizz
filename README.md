@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+Spring+Boot+%2B+Angular+%2B+React;Building+scalable+%26+high-performance+apps;Open+to+new+opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?afont=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+Spring+Boot+%2B+Angular+%2B+React;Building+scalable+%26+high-performance+apps;Open+to+new+opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,7 +50,7 @@ const selman = {
 
 🗓️ *January 2024 – March 2026* | Software Developer
 
-- 🔧 Full-stack apps with **Angular**, **React** & **Spring Boot** microservices
+- 🔧 Full-stack apps with **JAVA**, **React** & **Spring Boot** microservices
 - 📊 Delivered analytics dashboards across multiple business units
 - 🔗 Designed & integrated RESTful APIs with async request handling
 - 🐳 Leveraged **Docker** & **Git** for containerisation & version control
@@ -83,7 +83,6 @@ const selman = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
